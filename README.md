@@ -4,10 +4,22 @@
 
 CircuitKraft es una herramienta interactiva diseñada para ayudar a estudiantes y profesionales en la simplificación de circuitos lógicos utilizando mapas de Karnaugh. La aplicación incluye:
 
-- Generación de tablas de verdad.
-- Creación dinámica de mapas de Karnaugh.
-- Identificación de grupos y simplificación de ecuaciones.
+- Generación de tablas de verdad. (en proceso)
+- Creación dinámica de mapas de Karnaugh.(en proceso)
+- Identificación de grupos y simplificación de ecuaciones. (en proceso)
 - Representación visual de los resultados.
+
+## Explicación del algoritmo
+
+Te entiendo, lo que tienes en tu sección de **Explicación del algoritmo** se percibe muy general y poco técnico. No está mal, pero da la sensación de que falta estructura y precisión. Te propongo una redacción más clara y ordenada, diferenciando **qué hace el algoritmo, cómo lo hace y qué objetivo cumple**:
+
+---
+
+## Explicación del Algoritmo
+
+El algoritmo de CircuitKraft reproduce de forma sistemática lo que hace un humano al analizar un mapa de Karnaugh: identificar adyacencia, formar grupos y simplificar expresiones booleanas.
+
+La aplicación permite trabajar con 2 a 8 entradas digitales y hasta 8 salidas, generando una ecuación booleana simplificada por cada salida. Con ello se facilita el diseño de circuitos digitales como sumadores, sumadores con acarreo, controladores de displays u otros sistemas lógicos personalizados.
 
 ## Estructura del Proyecto
 
