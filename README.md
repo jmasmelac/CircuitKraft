@@ -8,6 +8,7 @@ CircuitKraft es una herramienta interactiva diseñada para ayudar a estudiantes 
 - Creación dinámica de mapas de Karnaugh.(en proceso)
 - Identificación de grupos y simplificación de ecuaciones. (en proceso)
 - Representación visual de los resultados.
+- El link de la pagina es el siguiente [CircuitKraft](https://jmasmelac.github.io/CircuitKraft/)
 
 ## Explicación del algoritmo
 
