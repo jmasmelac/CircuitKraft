@@ -10,12 +10,6 @@ CircuitKraft es una herramienta interactiva diseñada para ayudar a estudiantes 
 - Representación visual de los resultados.
 - El link de la pagina es el siguiente [CircuitKraft](https://jmasmelac.github.io/CircuitKraft/)
 
-## Explicación del algoritmo
-
-Te entiendo, lo que tienes en tu sección de **Explicación del algoritmo** se percibe muy general y poco técnico. No está mal, pero da la sensación de que falta estructura y precisión. Te propongo una redacción más clara y ordenada, diferenciando **qué hace el algoritmo, cómo lo hace y qué objetivo cumple**:
-
----
-
 ## Explicación del Algoritmo
 
 El algoritmo de CircuitKraft reproduce de forma sistemática lo que hace un humano al analizar un mapa de Karnaugh: identificar adyacencia, formar grupos y simplificar expresiones booleanas.
